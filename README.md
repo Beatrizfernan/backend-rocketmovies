@@ -108,6 +108,8 @@ npm start
 A API estará acessível em **`http://localhost:3333`**. Certifique-se de ajustar a porta conforme necessário.
 
 
+## **Links**
+[https://www.figma.com/file/BqMbgfD0SN6YTRftmF8CGG/RocketMovies-(Copy)?type=design&node-id=307-615&mode=design&t=nxu8P1jVtWK4QEKT-0](https://www.figma.com/file/BqMbgfD0SN6YTRftmF8CGG/RocketMovies-(Copy)?type=design&node-id=307-615&mode=design&t=nxu8P1jVtWK4QEKT-0)
 
-https://statuesque-croquembouche-626d47.netlify.app/
-https://rocketmoviess.onrender.com
+https://statuesque-croquembouche-626d47.netlify.app/ https://rocketmoviess.onrender.com 
+
