@@ -2,6 +2,21 @@
 
 Bem-vindo à RocketMovies API, uma plataforma para gerenciamento de notas e informações sobre filmes! Esta API permite que usuários armazenem títulos, notas e observações associadas a filmes que assistiram.
 
+FERRAMENTAS:
+
+Node.js: Uma plataforma de desenvolvimento para executar JavaScript do lado do servidor.
+
+Express.js: Um framework web para Node.js, utilizado para simplificar a criação de aplicativos web e APIs.
+
+Knex.js: Um construtor de consultas SQL para Node.js, usado para interagir com o banco de dados.
+
+JWT (JSON Web Tokens): Utilizado para autenticação, com um segredo definido em auth.js.
+
+Multer: Um middleware para o Node.js, usado para manipulação de formulários com arquivos, como uploads de imagens.
+
+Bcrypt.js: Usado para a criptografia de senhas.
+
+PostgreSQL: Um sistema de gerenciamento de banco de dados relacional. Seu projeto tem migrations e várias tabelas para armazenar dados.
 ## **Configurações**
 
 ### **Autenticação**
